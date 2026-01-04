@@ -34,3 +34,15 @@ Homework for the "GitLab" class
 
 - файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне;
 - скриншоты с успешно собранными сборками.
+
+# ОТВЕТ НА ЗАДАНИЕ 2
+
+### Рисунок №5. "Запушенный" репозиторий на GitLab.
+![push repos gilab](https://github.com/Yuriykup/hw_803/blob/main/screenshoots/2-1-1_Copy-Reposy.png)
+
+### Рисунок №6. Добавленный файл .gitlab-ci.yml в проекте Ntlg803 на Gitlab.
+![yaml file](https://github.com/Yuriykup/hw_803/blob/main/screenshoots/2-2-1_Yaml-file.png)
+
+### Рисунок №7. Зарегистрированный Runner в проекте Ntlg803 на Gitlab.
+![code yaml](https://github.com/Yuriykup/hw_803/blob/main/screenshoots/2-2-2_Ci-file.png)
+
