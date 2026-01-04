@@ -43,6 +43,9 @@ Homework for the "GitLab" class
 ### Рисунок №6. Добавленный файл .gitlab-ci.yml в проекте Ntlg803 на Gitlab.
 ![yaml file](https://github.com/Yuriykup/hw_803/blob/main/screenshoots/2-2-1_Yaml-file.png)
 
-### Рисунок №7. Зарегистрированный Runner в проекте Ntlg803 на Gitlab.
+### Рисунок №7. Код .gitlab-ci.yml.
 ![code yaml](https://github.com/Yuriykup/hw_803/blob/main/screenshoots/2-2-2_Ci-file.png)
+
+### Рисунок №8. Отработаные задачи (jobs) в GitLab.
+![true jobs](https://github.com/Yuriykup/hw_803/blob/main/screenshoots/2-2-3_true_jobs.png)
 
