@@ -12,7 +12,7 @@ Homework for the "GitLab" class
 # ОТВЕТ НА ЗАДАНИЕ 1
 
 ### Рисунок №1. Логотип локально установленного GitLab
-![logo gitlab](https://github.com/Yuriykup/hw_803/screenshoots/1-1-1_GitLab-logo.png)
+![logo gitlab](https://github.com/Yuriykup/hw_803/blob/main/screenshoots/1-1-1_GitLab-logo.png)
 
 # Задание 2
 ## Что нужно сделать:
