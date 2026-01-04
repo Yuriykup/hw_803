@@ -11,8 +11,18 @@ Homework for the "GitLab" class
 
 # ОТВЕТ НА ЗАДАНИЕ 1
 
-### Рисунок №1. Логотип локально установленного GitLab
+### Рисунок №1. Логотип локально установленного GitLab.
 ![logo gitlab](https://github.com/Yuriykup/hw_803/blob/main/screenshoots/1-1-1_GitLab-logo.png)
+
+### Рисунок №2. Новый проект.
+![new project](https://github.com/Yuriykup/hw_803/blob/main/screenshoots/1-2-1_New-project.png)
+
+### Рисунок №3. Запущенный на ВМ Ubuntu-bionic Runner.
+![docker runner](https://github.com/Yuriykup/hw_803/blob/main/screenshoots/1-3-1_docker-runner.png)
+
+### Рисунок №4. Зарегистрированный Runner в проекте Ntlg803 на Gitlab.
+![runner registry](https://github.com/Yuriykup/hw_803/blob/main/screenshoots/1-3-2_Runner-registry.png)
+
 
 # Задание 2
 ## Что нужно сделать:
